@@ -1,6 +1,7 @@
 # KRRI-ObjectDetection
 
-<img width="800" alt="Image" src="https://github.com/user-attachments/assets/0750d8e3-bd9c-4767-b2a3-72b00efc5ab3" style="background-color:#ffffff" />        
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/0750d8e3-bd9c-4767-b2a3-72b00efc5ab3" style="background-color:#ffffff" />     
+  
 2024 여름학기 KRRI [한국철도기술연구](https://www.krri.re.kr/web/main/index.do) 인턴쉽 레포지토리입니다.  
 *( 2024.06 - 2024.09 )  
 
